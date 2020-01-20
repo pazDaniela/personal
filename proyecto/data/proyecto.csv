@@ -1,0 +1,10 @@
+actividades,predecesor,duracion
+A,,5
+B,,40
+C,A,60
+D,B,15
+E,CD,10
+F,C,90
+G,C,20
+H,F,15
+I,EGH,5
