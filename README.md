@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pazDaniela/mat281_portfolio/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pazDaniela/personal/master?urlpath=lab)
 
 * Daniela Paz Díaz Mora: [Linkedin](https://www.linkedin.com/in/daniela-paz-diaz-mora/)
 
