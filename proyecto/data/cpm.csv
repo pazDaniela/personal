@@ -1,0 +1,7 @@
+actividades,predecesor,a,b,m
+A,,2,10,6
+B,,5,13,9
+C,,3,13,8
+D,B,1,13,7
+E,CD,8,12,10
+F,C,9,15,12
